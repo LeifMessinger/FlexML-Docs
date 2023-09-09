@@ -1,0 +1,3 @@
+[submodule "FlexML"]
+	path = FlexML
+	url = https://github.com/LeifMessinger/FlexML
